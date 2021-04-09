@@ -5,35 +5,19 @@
 
 #titulo{
     font-family: sans-serif;
-<<<<<<< Updated upstream
-    color: #ffffff;
-    text-shadow: 3px 3px 4px #001aff, 1px 1px 2px rgb(255, 255, 255), -1px 1px 1px rgb(0, 0, 255), -1px -1px 1px rgb(0, 0, 255); 
-    margin-left: 9%;
-=======
     color: rgb(0, 247, 255);
     margin-left: 15%;
->>>>>>> Stashed changes
 }
 
 #subtitulo{
     font-family: sans-serif;
-<<<<<<< Updated upstream
-    color: #ffffff;
-    text-shadow: 2px 2px 4px #001aff, 1px 1px 2px rgb(255, 255, 255), -1px 1px 1px blue, -1px -1px 1px blue;
-    margin-left: 13%;
-=======
     color:rgb(0, 247, 255);
     margin-left: 23%;
->>>>>>> Stashed changes
 }
 fieldset{
     border: 0;
 }
 
-<<<<<<< Updated upstream
-body{
-    background-image: url("204349.jpg");
-=======
 form{
     margin-top: 35px;
 }
@@ -52,7 +36,6 @@ main{
 
 body{
     background-image: url("317353.jpg");
->>>>>>> Stashed changes
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -60,14 +43,7 @@ body{
     background-color: #cfccdb;
     font-family: sans-serif;
     font-size: 1.3em;
-<<<<<<< Updated upstream
-    color: #ffffff;
-    text-shadow:2px 2px 4px #001aff, 1px 1px 2px rgb(255, 255, 255), -1px 1px 1px blue, -1px -1px 1px blue;
-    margin-left: 36%;
-    margin-top: 2%;
-=======
     color:rgb(0, 247, 255);
->>>>>>> Stashed changes
     justify-content: center;
 }
 input, select, textarea, button{
@@ -80,11 +56,7 @@ input, select, textarea, button{
 
 .campo label{
     margin-bottom: 0.2em;
-<<<<<<< Updated upstream
-    color: #ffffff;
-=======
     color: rgb(0, 247, 255);
->>>>>>> Stashed changes
     
     display: block;
 }
@@ -96,13 +68,8 @@ fieldset.grupo .campo{
 
 .campo input[type="text"], .campo input[type="email"], .campo select, .campo textarea{
     padding: 0.2em;
-<<<<<<< Updated upstream
-    border: 1px solid #0a0f3f;
-    box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
-=======
     border: 1px solid rgba(0, 247, 255, 0.8);
     box-shadow: 2px 2px 2px rgba(0, 247, 255, 0.8);
->>>>>>> Stashed changes
     display: block;
     background-color: rgb(255, 255, 255);
 }
@@ -112,43 +79,26 @@ fieldset.grupo .campo{
 }
 
 .campo input:focus, .campo select:focus, .campo textarea:focus{
-<<<<<<< Updated upstream
-    background: rgb(207, 213, 238);
-=======
     background: rgb(185, 253, 255);
->>>>>>> Stashed changes
 }
 
 .botao{
     font-size: 1.2em;
-<<<<<<< Updated upstream
-    background: #001aff;
-=======
     background: rgb(0, 247, 255);
->>>>>>> Stashed changes
     border: 0;
     margin-bottom: 1em;
     color: #000000;
     padding: 0.2em 0.6em;
-<<<<<<< Updated upstream
-    box-shadow: 2px 2px 1px rgba(0,0,0,0.8);
-    text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
-=======
     box-shadow: 2px 2px 1px rgba(255, 255, 255, 0.8);
->>>>>>> Stashed changes
     position: absolute;
-    top: 78%;
-    left: 47%;
+    top: 84%;
+    left: 45.5%;
     margin-right: -50%;
     transform: translate((-50%, -50%));
 }
 
 .botao:hover{
-<<<<<<< Updated upstream
-    background: #7476ff;
-=======
     background: rgb(137, 246, 250);
->>>>>>> Stashed changes
     box-shadow: inset 2px 2px 2px rgba(0,0,0,0.2);
     text-shadow: none;
 }
